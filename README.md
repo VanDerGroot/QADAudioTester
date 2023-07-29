@@ -1,6 +1,6 @@
 # AudioTester
 
-Quick and dirty audio tester.
+Quick and dirty audio tester. The program shows the **frequency**, **note name**, and **volume**, of your microphone input.
 
 # License
 
